@@ -6,10 +6,6 @@ This project involves analyzing and predicting home prices in Bangalore using ma
 
 **Folder Contents**
 
-File Name
-
-Description
-
 banglore_home_price
 
 banglore_home_prices_final.ipynb
