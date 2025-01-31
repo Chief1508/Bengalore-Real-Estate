@@ -1,7 +1,7 @@
-**Bangalore Home Prices Prediction
-**
-**Project Overview
-**
+**Bangalore Home Prices Prediction**
+
+**Project Overview**
+
 This project involves analyzing and predicting home prices in Bangalore using machine learning. The dataset includes historical real estate data, and the model is trained to provide price estimations based on various features.
 
 **Folder Contents
